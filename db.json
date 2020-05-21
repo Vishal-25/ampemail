@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "imgUrl": "https://tlr.stripocdn.email/content/guids/CABINET_161efacca4c2ed3f792a756d30d322d2/images/63741565857183596.jpeg",
+      "title": "4 BHK Unit Plan",
+      "rating": "★★★★☆",
+      "description": "4 BHK Luxurious Villas",
+      "price": "30 Lakhs Onwards",
+      "url": "www.google.com"
+    },
+    {
+      "imgUrl": "https://tlr.stripocdn.email/content/guids/CABINET_161efacca4c2ed3f792a756d30d322d2/images/95261565857163930.jpeg",
+      "title": "3 BHK Unit Plan",
+      "rating": "★★★★★",
+      "description": "3 BHK Residential Apartment",
+      "price": "25 Lakhs Onwards",
+      "url": "www.google.com"
+    },
+    {
+      "imgUrl": "https://tlr.stripocdn.email/content/guids/CABINET_161efacca4c2ed3f792a756d30d322d2/images/99251565861499151.jpeg",
+      "title": "2 BHK Unit Plan",
+      "rating": "★★★★☆",
+      "description": "2 BHK Residential Apartment",
+      "price": "20 Lakhs Onwards",
+      "url": "www.google.com"
+    }
+  ]
+}
